@@ -29,12 +29,14 @@ src: url(../fontes/LaOriental-Bold.otf);
 }
 
 body{
-    background-color: var(--cor4);
+    background: black url('imagens/ring2-original.jpg') center bottom   no-repeat fixed ;
+    background-size: cover ;
+
     font-family: var(--fonte-padrão);
 }
 
 header > div.container{
-    max-width: 500px;
+    max-width: 400px;
     margin: auto;
     padding-left: 0px;
 }
@@ -152,7 +154,7 @@ main{
 
 
     min-width: 320px;
-    max-width: 900px;
+    max-width: 800px;
     
     margin: auto;
     margin-bottom: 30px;
