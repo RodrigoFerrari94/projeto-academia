@@ -245,6 +245,7 @@ main img{
     max-width: 500px;
     margin: auto;
     display: block;
+    
 
 }
 
@@ -254,6 +255,8 @@ main div.img{
     margin-left: 0px;
     margin-right: 0px ;
     box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.418);
+    background-color: #0e000018;
+    
 }
 div#imgvertical  img{
     max-width: 900px;
